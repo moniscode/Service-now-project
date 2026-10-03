@@ -65,8 +65,6 @@ The repository includes the step-by-step implementation guide, the test report, 
 4. Review `Client_Script_UI_Policy_Test_Report.pdf` to see how the behavior was validated.
 5. Read `Final_Project_Report.pdf` for the full summary.
 
-To try it yourself, you need a ServiceNow instance. A free [Personal Developer Instance (PDI)](https://developer.servicenow.com/) works well.
-
 ---
 
 ## Tech Stack
