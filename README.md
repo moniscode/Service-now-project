@@ -12,7 +12,7 @@ Implementation of **Client Scripts** and **UI Policies** on the ServiceNow **Inc
 - [Repository Contents](#repository-contents)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Tech Stack](#tech-stack)
-- [Author](#author)
+- [Team](#team)
 
 ---
 
@@ -77,6 +77,10 @@ To try it yourself, you need a ServiceNow instance. A free [Personal Developer I
 
 ---
 
-## Author
+## Team
 
-**moniscode**: [GitHub Profile](https://github.com/moniscode)
+This is a team project developed by:
+
+- **Priyankha Sri J**
+- **Abinaya R**
+- **Monika V**
